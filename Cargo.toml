@@ -1,5 +1,5 @@
 [package]
-name = "gcp-spike"
+name = "spike"
 version = "0.1.0"
 authors = ["Ronan <ronan_mccabe@protonmail.com>"]
 edition = "2018"

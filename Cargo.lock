@@ -660,14 +660,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "gcp-spike"
-version = "0.1.0"
-dependencies = [
- "actix-rt",
- "actix-web",
-]
-
-[[package]]
 name = "generic-array"
 version = "0.14.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1339,6 +1331,14 @@ dependencies = [
  "cfg-if 1.0.0",
  "libc",
  "winapi 0.3.9",
+]
+
+[[package]]
+name = "spike"
+version = "0.1.0"
+dependencies = [
+ "actix-rt",
+ "actix-web",
 ]
 
 [[package]]
